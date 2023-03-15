@@ -20,22 +20,23 @@ You are required to model the demand for shared bikes with the available indepen
 9.Model Evaluation
 
 ### Technologies Used
-1.numpy  
-2.pandas 
-3.matplotlib 
-4.plotly 
-5.seaborn 
-6.statsmodel 
-7.sklearn  
-8.scipy 
+- numpy
+- pandas
+- matplotlib
+- plotly
+- seaborn
+- statsmodels 
+- sklearn
+- scipy
 
-### Conclusion
+## Conclusion
 Significant variables to predict the demand for shared bikes
-holiday
-temp
-hum
-windspeed
-Season
-months(January, July, September, November, December)
-Sunday
-weathersit( Light Snow, Mist + Cloudy)
+
+- holiday
+- temp
+- hum
+- windspeed
+- Season
+- months(January, July, September, November, December)
+- Sunday
+- weathersit( Light Snow, Mist + Cloudy)
