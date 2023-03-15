@@ -19,7 +19,7 @@ You are required to model the demand for shared bikes with the available indepen
 8.Making predictions using final model  
 9.Model Evaluation
 
-###Technologies Used
+### Technologies Used
 numpy 
 pandas
 matplotlib
@@ -29,7 +29,7 @@ statsmodel.2
 sklearn 
 scipy
 
-##Conclusion
+### Conclusion
 Significant variables to predict the demand for shared bikes
 holiday
 temp
